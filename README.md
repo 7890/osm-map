@@ -1,20 +1,24 @@
 ![logo](/images/logo.png) 
 
-This is an Open Street Map app for the Nokia 81104G 
+Open Street Map app 
 
 ### Features
 + Map
 + Send your position by sms
 + Import Tracks (geoJson)
 + Save your position
++ Open .gmx files
++ Measure the distance
 
-If you want to use the openweathermap, you need to get an API key from openweathermap.org. Then you need to create a file called osm-map.json please check my example [file](/osm-map.json)
-
+If you want to use the openweathermap, you need to get an API key from openweathermap.org.  
+Then you need to create a file called osm-map.json please check my example [file](/osm-map.json)
 
 
 ![image-2](/images/image-2.png)
 ![image-2](/images/image-3.png)
 ![image-4](/images/image-4.png)
+![image-4](/images/image-5.png)
+
 
 ## Maps
 + Openstreetmap
